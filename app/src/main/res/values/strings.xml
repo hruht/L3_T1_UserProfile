@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="tvSplash">User Profile</string>
+    <string name="btnOpen">Open Picture Gallery</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="hintFN">First Name</string>
+    <string name="hintLN">Last Name</string>
+    <string name="hintDescription">Description</string>
+    <string name="name">%1$s %2$s</string>
+</resources>
